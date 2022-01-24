@@ -1,0 +1,3 @@
+Info:
+
+2000 iteraciones, alpha y gamma = 0.45, k = 1100
